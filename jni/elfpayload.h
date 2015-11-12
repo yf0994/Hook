@@ -1,7 +1,6 @@
 #ifndef __ELFPAYLOAD__H__
 #define __ELFPAYLOAD__H__
 
-
 #include <android/log.h>
 
 #define LOGTAG "INJECT"
